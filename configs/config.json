@@ -1,0 +1,8 @@
+{
+    "line_access_token" : "",
+    "line_notify_url" : "https://notify-api.line.me/api/notify",
+    "qiita_user_name" : "",
+    "qiita_access_token" : "",
+    "db_data_source_name" : "",
+    "log_path" : ""
+}
